@@ -1,0 +1,84 @@
+D:\CK\C#\PDFread\PdfReader\PdfReader\bin\Release\PdfReader.exe.config
+D:\CK\C#\PDFread\PdfReader\PdfReader\bin\Release\PdfReader.exe
+D:\CK\C#\PDFread\PdfReader\PdfReader\bin\Release\PdfReader.pdb
+D:\CK\C#\PDFread\PdfReader\PdfReader\bin\Release\bcprov-jdk14-132.dll
+D:\CK\C#\PDFread\PdfReader\PdfReader\bin\Release\BouncyCastle.Crypto.dll
+D:\CK\C#\PDFread\PdfReader\PdfReader\bin\Release\FontBox-0.1.0-dev.dll
+D:\CK\C#\PDFread\PdfReader\PdfReader\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\CK\C#\PDFread\PdfReader\PdfReader\bin\Release\IKVM.GNU.Classpath.dll
+D:\CK\C#\PDFread\PdfReader\PdfReader\bin\Release\IKVM.Runtime.dll
+D:\CK\C#\PDFread\PdfReader\PdfReader\bin\Release\NPOI.dll
+D:\CK\C#\PDFread\PdfReader\PdfReader\bin\Release\NPOI.OOXML.dll
+D:\CK\C#\PDFread\PdfReader\PdfReader\bin\Release\NPOI.OpenXml4Net.dll
+D:\CK\C#\PDFread\PdfReader\PdfReader\bin\Release\NPOI.OpenXmlFormats.dll
+D:\CK\C#\PDFread\PdfReader\PdfReader\bin\Release\PDFBox-0.7.3.dll
+D:\CK\C#\PDFread\PdfReader\PdfReader\bin\Release\bcmail-jdk14-132.dll
+D:\CK\C#\PDFread\PdfReader\PdfReader\bin\Release\lucene-core-2.0.0.dll
+D:\CK\C#\PDFread\PdfReader\PdfReader\bin\Release\lucene-demos-2.0.0.dll
+D:\CK\C#\PDFread\PdfReader\PdfReader\bin\Release\BouncyCastle.Crypto.xml
+D:\CK\C#\PDFread\PdfReader\PdfReader\bin\Release\ICSharpCode.SharpZipLib.pdb
+D:\CK\C#\PDFread\PdfReader\PdfReader\bin\Release\ICSharpCode.SharpZipLib.xml
+D:\CK\C#\PDFread\PdfReader\PdfReader\obj\Release\PdfReader.Form1.resources
+D:\CK\C#\PDFread\PdfReader\PdfReader\obj\Release\PdfReader.Properties.Resources.resources
+D:\CK\C#\PDFread\PdfReader\PdfReader\obj\Release\PdfReader.csproj.GenerateResource.Cache
+D:\CK\C#\PDFread\PdfReader\PdfReader\obj\Release\PdfReader.exe
+D:\CK\C#\PDFread\PdfReader\PdfReader\obj\Release\PdfReader.pdb
+D:\CK\C#\PDFread\PdfReader\PdfReader\bin\Release\PdfReader.exe.manifest
+D:\CK\C#\PDFread\PdfReader\PdfReader\bin\Release\PdfReader.application
+D:\CK\C#\PDFread\PdfReader\PdfReader\obj\Release\PdfReader.csprojResolveAssemblyReference.cache
+D:\CK\C#\PDFread\PdfReader\PdfReader\obj\Release\PdfReader.exe.manifest
+D:\CK\C#\PDFread\PdfReader\PdfReader\obj\Release\PdfReader.application
+C:\Users\HASEE\Documents\WeChat Files\jennyhifi\FileStorage\File\2020-06\PdfReader (2)\PdfReader\PdfReader\bin\Release\PdfReader.exe.config
+C:\Users\HASEE\Documents\WeChat Files\jennyhifi\FileStorage\File\2020-06\PdfReader (2)\PdfReader\PdfReader\bin\Release\PdfReader.exe.manifest
+C:\Users\HASEE\Documents\WeChat Files\jennyhifi\FileStorage\File\2020-06\PdfReader (2)\PdfReader\PdfReader\bin\Release\PdfReader.application
+C:\Users\HASEE\Documents\WeChat Files\jennyhifi\FileStorage\File\2020-06\PdfReader (2)\PdfReader\PdfReader\bin\Release\PdfReader.exe
+C:\Users\HASEE\Documents\WeChat Files\jennyhifi\FileStorage\File\2020-06\PdfReader (2)\PdfReader\PdfReader\bin\Release\PdfReader.pdb
+C:\Users\HASEE\Documents\WeChat Files\jennyhifi\FileStorage\File\2020-06\PdfReader (2)\PdfReader\PdfReader\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\HASEE\Documents\WeChat Files\jennyhifi\FileStorage\File\2020-06\PdfReader (2)\PdfReader\PdfReader\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\HASEE\Documents\WeChat Files\jennyhifi\FileStorage\File\2020-06\PdfReader (2)\PdfReader\PdfReader\bin\Release\NPOI.dll
+C:\Users\HASEE\Documents\WeChat Files\jennyhifi\FileStorage\File\2020-06\PdfReader (2)\PdfReader\PdfReader\bin\Release\NPOI.OOXML.dll
+C:\Users\HASEE\Documents\WeChat Files\jennyhifi\FileStorage\File\2020-06\PdfReader (2)\PdfReader\PdfReader\bin\Release\NPOI.OpenXml4Net.dll
+C:\Users\HASEE\Documents\WeChat Files\jennyhifi\FileStorage\File\2020-06\PdfReader (2)\PdfReader\PdfReader\bin\Release\NPOI.OpenXmlFormats.dll
+C:\Users\HASEE\Documents\WeChat Files\jennyhifi\FileStorage\File\2020-06\PdfReader (2)\PdfReader\PdfReader\bin\Release\bcmail-jdk14-132.dll
+C:\Users\HASEE\Documents\WeChat Files\jennyhifi\FileStorage\File\2020-06\PdfReader (2)\PdfReader\PdfReader\bin\Release\lucene-core-2.0.0.dll
+C:\Users\HASEE\Documents\WeChat Files\jennyhifi\FileStorage\File\2020-06\PdfReader (2)\PdfReader\PdfReader\bin\Release\lucene-demos-2.0.0.dll
+C:\Users\HASEE\Documents\WeChat Files\jennyhifi\FileStorage\File\2020-06\PdfReader (2)\PdfReader\PdfReader\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\HASEE\Documents\WeChat Files\jennyhifi\FileStorage\File\2020-06\PdfReader (2)\PdfReader\PdfReader\bin\Release\ICSharpCode.SharpZipLib.pdb
+C:\Users\HASEE\Documents\WeChat Files\jennyhifi\FileStorage\File\2020-06\PdfReader (2)\PdfReader\PdfReader\bin\Release\ICSharpCode.SharpZipLib.xml
+C:\Users\HASEE\Documents\WeChat Files\jennyhifi\FileStorage\File\2020-06\PdfReader (2)\PdfReader\PdfReader\obj\Release\PdfReader.csprojAssemblyReference.cache
+C:\Users\HASEE\Documents\WeChat Files\jennyhifi\FileStorage\File\2020-06\PdfReader (2)\PdfReader\PdfReader\obj\Release\PdfReader.Form1.resources
+C:\Users\HASEE\Documents\WeChat Files\jennyhifi\FileStorage\File\2020-06\PdfReader (2)\PdfReader\PdfReader\obj\Release\PdfReader.Properties.Resources.resources
+C:\Users\HASEE\Documents\WeChat Files\jennyhifi\FileStorage\File\2020-06\PdfReader (2)\PdfReader\PdfReader\obj\Release\PdfReader.csproj.GenerateResource.cache
+C:\Users\HASEE\Documents\WeChat Files\jennyhifi\FileStorage\File\2020-06\PdfReader (2)\PdfReader\PdfReader\obj\Release\PdfReader.csproj.CoreCompileInputs.cache
+C:\Users\HASEE\Documents\WeChat Files\jennyhifi\FileStorage\File\2020-06\PdfReader (2)\PdfReader\PdfReader\obj\Release\PdfReader.exe.manifest
+C:\Users\HASEE\Documents\WeChat Files\jennyhifi\FileStorage\File\2020-06\PdfReader (2)\PdfReader\PdfReader\obj\Release\PdfReader.application
+C:\Users\HASEE\Documents\WeChat Files\jennyhifi\FileStorage\File\2020-06\PdfReader (2)\PdfReader\PdfReader\obj\Release\PdfReader.csproj.CopyComplete
+C:\Users\HASEE\Documents\WeChat Files\jennyhifi\FileStorage\File\2020-06\PdfReader (2)\PdfReader\PdfReader\obj\Release\PdfReader.exe
+C:\Users\HASEE\Documents\WeChat Files\jennyhifi\FileStorage\File\2020-06\PdfReader (2)\PdfReader\PdfReader\obj\Release\PdfReader.pdb
+C:\Users\HASEE\Desktop\PdfReader (2)\PdfReader\PdfReader\bin\Release\PdfReader.exe.config
+C:\Users\HASEE\Desktop\PdfReader (2)\PdfReader\PdfReader\bin\Release\PdfReader.exe.manifest
+C:\Users\HASEE\Desktop\PdfReader (2)\PdfReader\PdfReader\bin\Release\PdfReader.application
+C:\Users\HASEE\Desktop\PdfReader (2)\PdfReader\PdfReader\bin\Release\PdfReader.exe
+C:\Users\HASEE\Desktop\PdfReader (2)\PdfReader\PdfReader\bin\Release\PdfReader.pdb
+C:\Users\HASEE\Desktop\PdfReader (2)\PdfReader\PdfReader\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\HASEE\Desktop\PdfReader (2)\PdfReader\PdfReader\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\HASEE\Desktop\PdfReader (2)\PdfReader\PdfReader\bin\Release\NPOI.dll
+C:\Users\HASEE\Desktop\PdfReader (2)\PdfReader\PdfReader\bin\Release\NPOI.OOXML.dll
+C:\Users\HASEE\Desktop\PdfReader (2)\PdfReader\PdfReader\bin\Release\NPOI.OpenXml4Net.dll
+C:\Users\HASEE\Desktop\PdfReader (2)\PdfReader\PdfReader\bin\Release\NPOI.OpenXmlFormats.dll
+C:\Users\HASEE\Desktop\PdfReader (2)\PdfReader\PdfReader\bin\Release\bcmail-jdk14-132.dll
+C:\Users\HASEE\Desktop\PdfReader (2)\PdfReader\PdfReader\bin\Release\lucene-core-2.0.0.dll
+C:\Users\HASEE\Desktop\PdfReader (2)\PdfReader\PdfReader\bin\Release\lucene-demos-2.0.0.dll
+C:\Users\HASEE\Desktop\PdfReader (2)\PdfReader\PdfReader\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\HASEE\Desktop\PdfReader (2)\PdfReader\PdfReader\bin\Release\ICSharpCode.SharpZipLib.pdb
+C:\Users\HASEE\Desktop\PdfReader (2)\PdfReader\PdfReader\bin\Release\ICSharpCode.SharpZipLib.xml
+C:\Users\HASEE\Desktop\PdfReader (2)\PdfReader\PdfReader\obj\Release\PdfReader.csprojAssemblyReference.cache
+C:\Users\HASEE\Desktop\PdfReader (2)\PdfReader\PdfReader\obj\Release\PdfReader.Form1.resources
+C:\Users\HASEE\Desktop\PdfReader (2)\PdfReader\PdfReader\obj\Release\PdfReader.Properties.Resources.resources
+C:\Users\HASEE\Desktop\PdfReader (2)\PdfReader\PdfReader\obj\Release\PdfReader.csproj.GenerateResource.cache
+C:\Users\HASEE\Desktop\PdfReader (2)\PdfReader\PdfReader\obj\Release\PdfReader.csproj.CoreCompileInputs.cache
+C:\Users\HASEE\Desktop\PdfReader (2)\PdfReader\PdfReader\obj\Release\PdfReader.exe.manifest
+C:\Users\HASEE\Desktop\PdfReader (2)\PdfReader\PdfReader\obj\Release\PdfReader.application
+C:\Users\HASEE\Desktop\PdfReader (2)\PdfReader\PdfReader\obj\Release\PdfReader.csproj.CopyComplete
+C:\Users\HASEE\Desktop\PdfReader (2)\PdfReader\PdfReader\obj\Release\PdfReader.exe
+C:\Users\HASEE\Desktop\PdfReader (2)\PdfReader\PdfReader\obj\Release\PdfReader.pdb
